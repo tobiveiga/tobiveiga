@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=¡Bienvenido!&fontSize=40&fontColor=ffffff"/>
+</p>
+
 <h1 align="center">¡Hola! Soy Tobías. 👋</h1>
 
 <p align="center">
@@ -19,12 +23,4 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pascal-blue?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-## 📬 Contacto
-
-<p>
-  <a href="https://www.linkedin.com/in/tobías-ignacio-veiga>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </p>
