@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=¡Bienvenido!&fontSize=40&fontColor=ffffff"/>
-</p>
-
 <h1 align="center">¡Hola! Soy Tobías. 👋</h1>
 
 <p align="center">
